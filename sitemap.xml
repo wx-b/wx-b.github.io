@@ -60,10 +60,18 @@
   <url>
     <loc>https://wx-b.github.io/post/getting-started/</loc><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://wx-b.github.io/publication-type/0/</loc><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://wx-b.github.io/categories/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://wx-b.github.io/publication/patent-002/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://wx-b.github.io/publication/patent-004/</loc><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://wx-b.github.io/post/</loc><changefreq>weekly</changefreq></url></urlset>
+    <loc>https://wx-b.github.io/post/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://wx-b.github.io/tag/skill/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://wx-b.github.io/tech/skills/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://wx-b.github.io/tech/</loc><changefreq>weekly</changefreq></url></urlset>
